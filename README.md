@@ -9,24 +9,24 @@
 
    ---
 
-  ### Overview 
-  ### As the title says, React-Movies-API-Project is a short team project of two days deadline where we had to create a website using an online free API which was a bit difficult to find but once we did, the fun and enjoying part started and we could play around with its potential. 
+# Overview 
+   As the title says, React-Movies-API-Project is a short team project of two days deadline where we had to create a website using an online free API which was a bit difficult to find but once we did, the fun and enjoying part started and we could play around with its potential. 
    
    ---
-### Technologies used:
-#### Front end:
+# Technologies used:
+# Front end:
  HTML, SCSS, Bulma, React.js, Webpack, Babel 
-#### Back end: 
+# Back end: 
 Node.js, Express, MongoDB, Mongoose
 
 ---
-### Main Page:
+# Main Page:
 
    The main page is divided into a navbar,hero with a searching bar, which allows the user to access informations for any movie, and the first twenty trending movies. 
 
    We've used Bulma for styling and structuring the page like so =>
     
-  ### Navbar:  
+  # Navbar:  
       
        const Navbar = () => (
     <div className="navbar is-black is-bold">
@@ -62,7 +62,7 @@ Node.js, Express, MongoDB, Mongoose
     </div>
  
 
- ### Hero & Search bar: 
+ # Hero & Search bar: 
 
    handleChange(e){
     if (e.target.value === '') location.reload()
@@ -91,7 +91,7 @@ Node.js, Express, MongoDB, Mongoose
       </section>
 
 
-  ### Trending movies: 
+  # Trending movies: 
 
          <div className="background">
         <div className="section">
@@ -123,11 +123,11 @@ Node.js, Express, MongoDB, Mongoose
     )
   
 
-### The next step was creating another route for single movie 
+# The next step was creating another route for single movie 
 
      <Route path="/main/:id" component={SingleMovie} />
 
-### then, when the user clicks on the movie's card, the APIs ID for the specific movie is called up and the route is changing to single movie and returns more informations
+# then, when the user clicks on the movie's card, the APIs ID for the specific movie is called up and the route is changing to single movie and returns more informations
 
       componentDidMount(){
     const id = this.props.match.params.id
@@ -163,5 +163,5 @@ Node.js, Express, MongoDB, Mongoose
     )
   
 
-  ### The next feature that we wanted to add was "Genres" dropdown of movies, placed on the top-right corner of the navbar which we never got to finish because of the short timeframe we had.
-  ### In a future version of the site we would like to finish what we started and implement more features like "Add to favorites" button with a different route.
+  # The next feature that we wanted to add was "Genres" dropdown of movies, placed on the top-right corner of the navbar which we never got to finish because of the short timeframe we had.
+  # In a future version of the site we would like to finish what we started and implement more features like "Add to favorites" button with a different route.
