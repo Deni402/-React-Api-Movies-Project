@@ -64,7 +64,7 @@ Node.js, Express, MongoDB, Mongoose
 
  # Hero & Search bar: 
 
-   handleChange(e){
+       handleChange(e){
     if (e.target.value === '') location.reload()
     else { 
       this.setState({ search: e.target.value })
@@ -163,5 +163,5 @@ Node.js, Express, MongoDB, Mongoose
     )
   
 
-  # The next feature that we wanted to add was "Genres" dropdown of movies, placed on the top-right corner of the navbar which we never got to finish because of the short timeframe we had.
-  # In a future version of the site we would like to finish what we started and implement more features like "Add to favorites" button with a different route.
+  The next feature that we wanted to add was "Genres" dropdown of movies, placed on the top-right corner of the navbar which we never got to finish because of the short timeframe we had.
+  In a future version of the site we would like to finish what we started and implement more features like "Add to favorites" button with a different route.
