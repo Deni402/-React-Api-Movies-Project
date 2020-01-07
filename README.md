@@ -123,11 +123,11 @@ Node.js, Express, MongoDB, Mongoose
     )
   
 
-# The next step was creating another route for single movie 
+ The next step was creating another route for single movie 
 
      <Route path="/main/:id" component={SingleMovie} />
 
-# then, when the user clicks on the movie's card, the APIs ID for the specific movie is called up and the route is changing to single movie and returns more informations
+ then, when the user clicks on the movie's card, the APIs ID for the specific movie is called up and the route is changing to single movie and returns more informations
 
       componentDidMount(){
     const id = this.props.match.params.id
