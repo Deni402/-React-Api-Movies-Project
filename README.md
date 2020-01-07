@@ -64,13 +64,13 @@ Node.js, Express, MongoDB, Mongoose
 
  # Hero & Search bar: 
 
-       handleChange(e){
+         handleChange(e){
     if (e.target.value === '') location.reload()
     else { 
       this.setState({ search: e.target.value })
       console.log(this.state.search)
     }
-  }
+  
 
     render() {
     console.log(this.state.movies.results)
