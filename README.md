@@ -1,8 +1,7 @@
 # React-Movies-API-Project
 # Installation
    Clone or download the repo
-   Run 'mongod' or 'mongod —dbpath ~/data/db' 
-   Run 'npm run serve'
+   Run 'npm i' and 'npm run serve'
 
 # Timeframe
   Two days
@@ -18,8 +17,7 @@
 # Technologies used:
 # Front end:
  HTML, SCSS, Bulma, React.js, Webpack, Babel 
-# Back end: 
-Node.js, Express, MongoDB, Mongoose
+
 
 ---
 # Main Page:
