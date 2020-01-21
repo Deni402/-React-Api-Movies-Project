@@ -8,7 +8,7 @@
   Two days
 
    ---
-
+!['Prewiew'](https://imgur.com/zwsH0BS)
 # Overview 
    As the title says, React-Movies-API-Project is a short team project of two days deadline where we had to create a website using an online free API which was a bit difficult to find but once we did, the fun and enjoying part started and we could play around with its potential. 
    
