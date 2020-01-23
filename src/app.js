@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom'
 import Main from './Components/main'
 import Navbar from './Components/Navbar'
 import SingleMovie from './Components/singleMovie'
-import { BrowserRouter, Switch, Route } from 'react-router-dom'
+import { BrowserRouter, Switch, Route, HashRouter } from 'react-router-dom'
 
 import 'bulma'
 import './styles/style.scss'
 
 const App = () => (
-  <BrowserRouter>
+  <HashRouter>
     <Navbar />
     <Switch>
       <Route path="/main/:id" component={SingleMovie} />
@@ -18,7 +18,7 @@ const App = () => (
       {/* <Route path="/watchlater" component={Favourites} /> */}
       
     </Switch>
-  </BrowserRouter>
+  </HashRouter>
 )
 
 
