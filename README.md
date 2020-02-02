@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://i.imgur.com/zwsH0BS.gif )
+
 # React-Movies-API-Project
 # Installation
    Clone or download the repo
@@ -6,8 +8,8 @@
 # Timeframe
   Two days
 
----
-![Image of Yaktocat](https://i.imgur.com/zwsH0BS.gif )
+
+
 ---
 
 # Overview 
