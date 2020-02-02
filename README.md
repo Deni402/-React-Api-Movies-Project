@@ -1,4 +1,4 @@
-!['Sign-Up-Flow'](https://i.imgur.com/zwsH0BS.gif )
+!['Sign-Up-Flow'](https://i.imgur.com/zwsH0BS.gifv )
 
 
 # React-Movies-API-Project
