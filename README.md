@@ -7,7 +7,7 @@
   Two days
 
 ---
-![Imgur](https://i.imgur.com/zwsH0BS.gifv)
+![Image of Yaktocat](https://imgur.com/zwsH0BS)
 ---
 
 # Overview 
