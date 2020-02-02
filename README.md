@@ -7,7 +7,7 @@
   Two days
 
 ---
-! [Imgur](https://i.imgur.com/zwsH0BS.gifv)
+![Imgur](https://i.imgur.com/zwsH0BS.gifv)
 ---
 
 # Overview 
