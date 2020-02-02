@@ -7,7 +7,7 @@
   Two days
 
 ---
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://i.imgur.com/zwsH0BS.gifv)
 ---
 
 # Overview 
