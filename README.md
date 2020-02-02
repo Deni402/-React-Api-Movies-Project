@@ -1,4 +1,5 @@
-![Image of Yaktocat](https://i.imgur.com/zwsH0BS.gif )
+!['Sign-Up-Flow'](https://i.imgur.com/cCvPghk.png )
+
 
 # React-Movies-API-Project
 # Installation
