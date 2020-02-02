@@ -7,7 +7,8 @@
   Two days
 
 ---
-!['Prewiew']([img]https://i.imgur.com/zwsH0BS.gif[/img])
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 ---
 
 # Overview 
