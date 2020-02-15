@@ -5,7 +5,7 @@
 
 # Timeframe
   Two days
-
+  
    ---
 
 # Overview 
@@ -16,15 +16,14 @@
 # Front end:
  HTML, SCSS, Bulma, React.js, Webpack, Babel 
 
-
    ---
 # Main Page:
 
-   The main page is divided into a navbar,hero with a searching bar, which allows the user to access informations for any movie, and the first twenty trending movies. 
+   The main page is divided into a navbar,hero with a searching bar, which allows the user to access informations for any movie, and the first twenty trending movies.
+   We've used Bulma for styling and structuring the page like so =>
+
    ![Game Page - Win](https://i.imgur.com/fQk3GQ8.png)
 
-   We've used Bulma for styling and structuring the page like so =>
-    
   # Navbar:  
       
        const Navbar = () => (
