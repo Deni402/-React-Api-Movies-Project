@@ -1,4 +1,4 @@
-![Game Page - Win](https://i.imgur.com/zwsH0BS.gifv)
+![Game Page - Win](https://i.imgur.com/zwsH0BS.gif)
 
 
 # React-Movies-API-Project
