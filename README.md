@@ -1,4 +1,4 @@
-!['Sign-Up-Flow'](https://i.imgur.com/zwsH0BS.gifv )
+![Game Page - Win](https://i.imgur.com/QyGZcw7.png)
 
 
 # React-Movies-API-Project
