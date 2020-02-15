@@ -5,7 +5,7 @@
 
 # Timeframe
   Two days
-  
+
    ---
 
 # Overview 
@@ -26,6 +26,9 @@
 
   # Navbar:  
       
+      
+![Game Page - Win](https://i.imgur.com/7Pg0uYu.png)
+
        const Navbar = () => (
     <div className="navbar is-black is-bold">
     <div className="container">
