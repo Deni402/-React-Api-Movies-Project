@@ -1,4 +1,4 @@
-## React-Movies-API-Project
+# React-Movies-API-Project
 ## Installation
    Clone or download the repo
    Run 'npm i' and 'npm run serve'
@@ -19,7 +19,7 @@
    ---
 ## Main Page:
 
-   The main page is divided into a navbar,hero with a searching bar, which allows the user to access informations for any movie, and the first twenty trending movies.
+   The main page is divided into a navbar, hero with a searching bar which allows the user to access informations for any movie, and the first twenty trending movies.
    We've used Bulma for styling and structuring the page like so =>
 
    ![Game Page - Win](https://i.imgur.com/fQk3GQ8.png)
