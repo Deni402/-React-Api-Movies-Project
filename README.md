@@ -29,9 +29,9 @@
 
 ## Navbar:  
 
-For the navbar we created a new component where we imported React and a link to the trending movies.  As I mentioned earlier, I used Bulma for most part of the design which in this case the navbar model had also a hamburger drop-down menu where I included the movie genres that unfortunetly we haven't got time to finish, but I'm looking forward to do so in the future features. 
-
 ![Game Page - Win](https://i.imgur.com/7Pg0uYu.png)
+
+For the navbar we created a new component where we imported React and a link to the trending movies.  As I mentioned earlier, I used Bulma for most part of the design which in this case the navbar model had also a hamburger drop-down menu where I included the movie genres that unfortunetly we haven't got time to finish, but I'm looking forward to do so in the future features. 
 
        const Navbar = () => (
     <div className="navbar is-black is-bold">
