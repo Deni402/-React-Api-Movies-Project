@@ -67,7 +67,7 @@ For the navbar we created a new component where we imported React and a link to 
     </div>
  
 
-## Hero & Search bar: 
+## Hero & Searching bar: 
 
          handleChange(e){
     if (e.target.value === '') location.reload()
