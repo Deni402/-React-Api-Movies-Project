@@ -147,7 +147,7 @@ To get only the first twenty trending movies we had to create a 'class  Main' wi
 
 ## Challenges & wins 
 
-One of the challenges was finding a good algorithm that match us as a team for splitting the tasks and combine the code to get the final result, we decided that is important to finish the functionallity part first and crack it step by step on small task for each one. I was satisfyed with the process because I got to understand and enjoy every bit we made. 
+One of the challenges was finding a good algorithm that match us as a team for splitting the tasks and combine the code to get the final result, we decided that is important to finish the functionallity part first and crack it step by step on small tasks for each one. I was satisfyed with the process because I got to understand and enjoy every bit we made. 
 
 ## Key learnings
 From this project I got to learn more about the functionality behind manipulating an External API using ReactJS, get used to the syntax of render, importing and exporting while creating new routes and components, why e.preventDefault() is so importand when it comes to reload a specific part of the page, improved my styling skills using Bulma and Sass, and also very important how to work in a team, understand and talk to my partners and split the tasks in a way that everyone understands the final code.
