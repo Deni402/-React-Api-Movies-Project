@@ -174,7 +174,7 @@ The hero was also a Bulma property easly inserted in our code.
 ## Challenges & wins 
 
 ## Key learnings
-
+From this project I got to learn more about the functionality behind manipulating an External API using ReactJS, get used to the syntax of render, importing and exporting while creating new routes and components, why e.preventDefault() is so importand when it comes to reload a specific part of the page, improved my styling skills using Bulma and Sass, and also very important how to work in a team, understand and talk to my partners and split the tasks in a way that everyone understands the final code.
 
 ## Future features
   The next feature that we wanted to add was "Genres" dropdown of movies, placed on the top-right corner of the navbar which we never got to finish because of the short timeframe we had.
