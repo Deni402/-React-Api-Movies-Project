@@ -1,4 +1,5 @@
 # React-Movies-API-Project
+   ---
 ## Installation
    Clone or download the repo
    Run 'npm i' and 'npm run serve'
@@ -9,7 +10,8 @@
    ---
 
 ## Overview 
-   As the title says, React-Movies-API-Project is a short team project of two days deadline where we had to create a website using an online free API which was a bit difficult to find but once we did, the fun and enjoying part started and we could play around with its potential. 
+   As the title says, React-Movies-API-Project is a short team project of two days deadline where we had to create a website using an online free API which was a bit difficult to find but once we did, the fun and enjoying part started and we could play around with its potential.
+   As from my side of the project, I had to create the routes for each path/component which had place in 'app.js',
    
    ---
 ## Technologies used:
@@ -25,7 +27,8 @@
    ![Game Page - Win](https://i.imgur.com/fQk3GQ8.png)
 
 ## Navbar:  
-      
+
+
 
 ![Game Page - Win](https://i.imgur.com/7Pg0uYu.png)
 
