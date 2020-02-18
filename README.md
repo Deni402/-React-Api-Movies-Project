@@ -1,14 +1,14 @@
-# React-Movies-API-Project
-# Installation
+## React-Movies-API-Project
+## Installation
    Clone or download the repo
    Run 'npm i' and 'npm run serve'
 
-# Timeframe
+## Timeframe
   Two days
 
    ---
 
-# Overview 
+## Overview 
    As the title says, React-Movies-API-Project is a short team project of two days deadline where we had to create a website using an online free API which was a bit difficult to find but once we did, the fun and enjoying part started and we could play around with its potential. 
    
    ---
@@ -17,16 +17,16 @@
  HTML, SCSS, Bulma, React.js, Webpack, Babel 
 
    ---
-# Main Page:
+## Main Page:
 
    The main page is divided into a navbar,hero with a searching bar, which allows the user to access informations for any movie, and the first twenty trending movies.
    We've used Bulma for styling and structuring the page like so =>
 
    ![Game Page - Win](https://i.imgur.com/fQk3GQ8.png)
 
-  # Navbar:  
+## Navbar:  
       
-      
+
 ![Game Page - Win](https://i.imgur.com/7Pg0uYu.png)
 
        const Navbar = () => (
@@ -63,7 +63,7 @@
     </div>
  
 
- # Hero & Search bar: 
+## Hero & Search bar: 
 
          handleChange(e){
     if (e.target.value === '') location.reload()
@@ -92,7 +92,7 @@
       </section>
 
 
-  # Trending movies: 
+## Trending movies: 
 
          <div className="background">
         <div className="section">
@@ -163,6 +163,6 @@
       </div>
     )
   
-
+## Future features
   The next feature that we wanted to add was "Genres" dropdown of movies, placed on the top-right corner of the navbar which we never got to finish because of the short timeframe we had.
   In a future version of the site we would like to finish what we started and implement more features like "Add to favorites" button with a different route.
