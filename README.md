@@ -101,7 +101,7 @@ The hero was also a Bulma property easly inserted in our code.
 
 ## Trending movies: 
 
-To get only the first twenty trending movies we had to create a 'class  Main' with a constructor and use the 'map' property through the results 'this.state.movies.results' inside of 'render' function. 
+To get only the first twenty trending movies we had to create a 'class  Main' with a constructor and use the 'map' property through the results 'this.state.movies.results' inside of the 'render' function. 
 
               {this.state.movies.results.map((result, i) => {
                 return <div key={i} className="column is-one-quarter-desktop is-one-third-tablet is-half-mobile">
