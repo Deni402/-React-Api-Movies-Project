@@ -101,36 +101,12 @@ The hero was also a Bulma property easly inserted in our code.
 
 ## Trending movies: 
 
-         <div className="background">
-        <div className="section">
-          <div className="container">
-            <div className="columns is-mobile is-multiline">
+To get only the first twenty trending movies we had to create a 'class  Main' with a constructor and use the 'map' property through the results 'this.state.movies.results' inside of 'render' function. 
+
               {this.state.movies.results.map((result, i) => {
                 return <div key={i} className="column is-one-quarter-desktop is-one-third-tablet is-half-mobile">
                   <a href={`/main/${result.id}`}>
-                    <div  className="card, homeCard">
-                      <div className="card-image">
-                        <figure className="image is-4by3">
-                          <img src={`https://image.tmdb.org/t/p/w500${result.poster_path}`} />
-                        </figure>
-                      </div>
-                      <div className="card-content">
-                        <p className="subtitle" to={`/main/${result.id}`}>{result.title}</p>
-                        <p>{result.release_date}</p>
-                        {/* <a className="has-text-grey-darker" onClick={(e) => this.handleClick(e)}>Add to favourites</a> */}
-                      </div>
-                    </div>
-                  </a>
-                </div> 
-              })}  
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    )
-  
-
+            
  The next step was creating another route for single movie 
 
      <Route path="/main/:id" component={SingleMovie} />
@@ -168,8 +144,6 @@ The hero was also a Bulma property easly inserted in our code.
           </div>
         </div>
       </div>
-    )
-
 
 ## Challenges & wins 
 
