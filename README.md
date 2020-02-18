@@ -11,7 +11,7 @@
 
 ## Overview 
    As the title says, React-Movies-API-Project is a short team project of two days deadline where we had to create a website using an online free API which was a bit difficult to find but once we did, the fun and enjoying part started and we could play around with its potential.
-   As from my side of the project, I had to create the routes for each path/component which had place in 'app.js',
+   As from my side of the project, I had to create the routes for each path/component which had place in 'app.js', and then import react and axios in each new route so I can use 'componentDidMount' for taking my specific data like I did for 'singleMovie.js'. Styling was also one of my tasks and I used bulma for the majority and a bit of Sass to adjust the rest such as height, margins, paddings and background colors.
    
    ---
 ## Technologies used:
