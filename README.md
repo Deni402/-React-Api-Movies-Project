@@ -23,6 +23,7 @@
 ## Main Page:
 
    The main page is divided into a navbar, hero with a searching bar which allows the user to access informations for any movie, and the first twenty trending movies.
+   Our goal here was to keep the code and the design as clean as we could so we can focus more on the functionality and properties of ReactJS, and how can we use that to manipulate the specific part of the API that shows only the first 20 treanding movies.
 
    ![Game Page - Win](https://i.imgur.com/fQk3GQ8.png)
 
@@ -131,7 +132,7 @@
 
      <Route path="/main/:id" component={SingleMovie} />
 
- then, when the user clicks on the movie's card, the APIs ID for the specific movie is called up and the route is changing to single movie and returns more informations
+ then, when the user clicks on the movie's card, the APIs ID for the specific movie is called up and the route is changing to single movie and returns more informations.
 
       componentDidMount(){
     const id = this.props.match.params.id
@@ -165,7 +166,12 @@
         </div>
       </div>
     )
-  
+
+
+## Challenges & wins 
+
+## Key learnings
+
 ## Future features
   The next feature that we wanted to add was "Genres" dropdown of movies, placed on the top-right corner of the navbar which we never got to finish because of the short timeframe we had.
   In a future version of the site we would like to finish what we started and implement more features like "Add to favorites" button with a different route.
