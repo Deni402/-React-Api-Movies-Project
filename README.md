@@ -135,7 +135,7 @@ The hero was also a Bulma property easly inserted in our code.
 
      <Route path="/main/:id" component={SingleMovie} />
 
- then, when the user clicks on the movie's card, the APIs ID for the specific movie is called up and the route is changing to single movie and returns more informations.
+ then, when the user clicks on the movie's card, the APIs ID for the specific movie is called and the route is changing to single movie and returns more informations.
 
       componentDidMount(){
     const id = this.props.match.params.id
@@ -174,6 +174,7 @@ The hero was also a Bulma property easly inserted in our code.
 ## Challenges & wins 
 
 ## Key learnings
+
 
 ## Future features
   The next feature that we wanted to add was "Genres" dropdown of movies, placed on the top-right corner of the navbar which we never got to finish because of the short timeframe we had.
