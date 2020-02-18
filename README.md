@@ -23,7 +23,7 @@
 ## Main Page:
 
    The main page is divided into a navbar, hero with a searching bar which allows the user to access informations for any movie, and the first twenty trending movies.
-   Our goal here was to keep the code and the design as clean as we could so we can focus more on the functionality and properties of ReactJS, and how can we use that to manipulate the specific part of the API that shows only the first 20 treanding movies.
+   Our goal here was to keep the code and the design as clean as we could so we can focus more on the functionality and properties of ReactJS, and how can we use that to manipulate the specific part of the API that shows only the first twenty trending movies.
 
    ![Game Page - Win](https://i.imgur.com/fQk3GQ8.png)
 
