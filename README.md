@@ -69,6 +69,9 @@ For the navbar we created a new component where we imported React and a link to 
 
 ## Hero & Searching bar: 
 
+The functionality behind searching bar was to create a function with an event 'e' that returns the location of the event target value 'e.target.value' and an input 'onChange' and a form 'onSubmit' that gives the user the specific movie. 
+The hero was also a Bulma property easly inserted.
+
          handleChange(e){
     if (e.target.value === '') location.reload()
     else { 
